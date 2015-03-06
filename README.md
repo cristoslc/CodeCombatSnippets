@@ -1,2 +1,2 @@
-# CodeCombatGists
+# CodeCombatSnippets
 An assortment of snippets for use on CodeCombat.com
